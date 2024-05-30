@@ -14,19 +14,19 @@ In this [room](https://tryhackme.com/r/room/privateinvestigator), we aim to unco
 
 The first image shows a location near a KFC restaurant. By performing a reverse image search, we identified the KFC location as being in Mbabane, Eswatini. Using Google Maps, we confirmed that there is a mall in close proximity to this KFC. The name of this mall is **Pick n Pay Mbabane - The Mall**, which answers our first question.
 
-![Private%20Investigator%20Writeup%20-%20Tryhackme%assets/Untitled.png](Private%20Investigator%20Writeup%20-%20Tryhackme%assets/Untitled.png)
+ <img src="assets/Untitled.png" alt="TryHackMe">
 
 ### Airport of Departure
 
 The second image provides clues about the airport from which the target departed. By conducting a reverse image search, we identified the airport as **King Mswati III International Airport** in Eswatini. A quick Google search for its IATA code reveals that it is **SHO**.
 
-![Private%20Investigator%20Writeup%20-%20Tryhackme%assets/Untitled%201.png](Private%20Investigator%20Writeup%20-%20Tryhackme%assets/Untitled%201.png)
+<img src="assets/Untitled 1.png" alt="TryHackMe">
 
 ### City of Arrival
 
 The third image contains partial information about the airline the target used. Through further investigation, we identified the airline as **Eswatini Air**. By examining the route map of Eswatini Air, we can determine the possible destinations. Given the clue that the answer should be six letters long, we narrow it down to **Harare**.
 
-![Private%20Investigator%20Writeup%20-%20Tryhackme%assets/Untitled%202.png](Private%20Investigator%20Writeup%20-%20Tryhackme%assets/Untitled%202.png)
+<img src="assets/Untitled 2.png" alt="TryHackMe">
 
 ### Conclusion
 
