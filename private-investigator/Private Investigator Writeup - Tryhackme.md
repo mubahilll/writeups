@@ -14,7 +14,7 @@ In this [room](https://tryhackme.com/r/room/privateinvestigator), we aim to unco
 
 The first image shows a location near a KFC restaurant. By performing a reverse image search, we identified the KFC location as being in Mbabane, Eswatini. Using Google Maps, we confirmed that there is a mall in close proximity to this KFC. The name of this mall is **Pick n Pay Mbabane - The Mall**, which answers our first question.
 
-![Private%20Investigator%20Writeup%20-%20Tryhackme%2054680b1ca72b47fc877307f803e4e25a/Untitled.png](Private%20Investigator%20Writeup%20-%20Tryhackme%assets/Untitled.png)
+![Private%20Investigator%20Writeup%20-%20Tryhackme%assets/Untitled.png](Private%20Investigator%20Writeup%20-%20Tryhackme%assets/Untitled.png)
 
 ### Airport of Departure
 
